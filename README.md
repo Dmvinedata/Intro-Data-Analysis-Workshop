@@ -24,4 +24,5 @@ If you do want to run the code on your own computer, you would want to download 
 
 ## Thanks for attending!
 
+Adding a note while learning git.
 [Feel free to connect with me!](https://www.linkedin.com/in/lindseyberlin/)
